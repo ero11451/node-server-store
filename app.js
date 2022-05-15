@@ -46,5 +46,5 @@ mongoose
 
 //Server
 app.listen(process.env.PORT || 3000, (server) => {
-  console.log(app);
+  console.log(server);
 });
